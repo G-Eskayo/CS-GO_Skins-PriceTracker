@@ -1,4 +1,4 @@
-# Final-Project
+# SkineeDipping
 CSGO price tracker 
 
 Application name: Skinee Dipping
