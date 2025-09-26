@@ -1,5 +1,4 @@
-# SkineeDipping
-CSGO price tracker 
+# CSGO price tracker 
 
 Application name: Skinee Dipping
 
